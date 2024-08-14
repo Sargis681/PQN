@@ -13,8 +13,9 @@ li{
     list-style-type: none;
     color: red;
     font-size: 40px;
-    width: 50px;
+    /* width: 50px; */
 }
+
 .num{
     display: flex;
     justify-content: center;
