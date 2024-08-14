@@ -24,7 +24,6 @@ const numberListTwo = document.getElementById("numberListTwo");
 let listHTML = '';
 let listHTMLTwo = '';
 
-
 numbers.forEach((number) => {
   listHTML += `<div class="num"> 
   
